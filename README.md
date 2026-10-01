@@ -13,3 +13,7 @@ atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 ## Atividade Power bi - análise de dados da ANTT - CARGAS - EMPRESAS MULTIMODAIS 
 atividade foi desenvolvida com os dados abertos da ANTT- cargas e empresas multimodais. A partir dos dados foram elaborados dashboards para visualizações e interpretação pertencentes aos dados, os resultados foram apresentados e feitos por meio de gráficos e mapas para facilitar a interpretação das informações.
 <img width="883" height="496" alt="informatica github" src="https://github.com/user-attachments/assets/2e23004a-5fd0-409e-8bcd-2da1ffcc8126" />
+
+## Atividade power bi- criação de dashboard 
+A atividade a seguir foi desenvolvida individualmente, mantendo os requisitos exigidos pelo professor(a) onde foi pesquisado uma base de dados publica (dados cadastrais de revendedores de combustível). E assim foram desenvolvidos dashboards para a análises e informações dos dados baixados.
+<img width="884" height="497" alt="image" src="https://github.com/user-attachments/assets/31a97ce7-c0eb-42f8-ac8e-92f4548c1cb0" />
