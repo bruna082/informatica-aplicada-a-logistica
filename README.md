@@ -17,3 +17,7 @@ atividade foi desenvolvida com os dados abertos da ANTT- cargas e empresas multi
 ## Atividade power bi - criação de dashboard 
 A atividade a seguir foi desenvolvida individualmente, mantendo os requisitos exigidos pelo professor(a) onde foi pesquisado uma base de dados publica (dados cadastrais de revendedores de combustível). E assim foram desenvolvidos dashboards para a análises e informações dos dados baixados.
 <img width="884" height="497" alt="image" src="https://github.com/user-attachments/assets/31a97ce7-c0eb-42f8-ac8e-92f4548c1cb0" />
+
+## Atividade: Incluindo Imagens URL no Power Bi 
+Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
+<img width="870" height="488" alt="image" src="https://github.com/user-attachments/assets/757644cf-a355-4573-8311-ce841fb284ef" />
