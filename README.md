@@ -29,4 +29,6 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 ## Análise de Regressão Linear - Vendas de Sorvete (KAGGLE) 
 parte 1: Tratamento de Dados e Modelagem no Excel 
 Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os dados foram descompactados e estruturados no Excel convertendo o arquivo CSV (usando o recurso de dividir Texto para Colunas com separação por vírgula). Em seguida, foi construído um gráfico de dispersão mapeando as variáveis nos eixos X e Y, finalizando com a aplicação de uma linha de tendência (regressão linear) para a análise visual inicial.
-<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/e72229cf-fb28-47ab-b608-e14196b40ae4" />
+
+<img width="716" height="370" alt="image" src="https://github.com/user-attachments/assets/a108ed70-da07-42be-ba62-8e04da70a668" />
+
