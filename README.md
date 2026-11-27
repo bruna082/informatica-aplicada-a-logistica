@@ -1,43 +1,55 @@
 # informatica aplicada a logistica
 Trabalhos de informática 
-## Apresentação em equipe
+## Apresentação em equipe (Atividade 1)
 <img width="1198" height="672" alt="image" src="https://github.com/user-attachments/assets/af300c19-0d24-4bf1-b59c-c639b24f9cd3" />
 
-## Atividade de informatica operador multimodal
+## Atividade de informatica operador multimodal (Atividade 2)
 <img width="981" height="541" alt="image" src="https://github.com/user-attachments/assets/aa3b23e1-38e0-4bfa-a472-f48a155e5aab" />
 
-## Atividade de análise de dados - dados cadastrais de revendedores de combustível - 9 de setembro
+## Atividade de análise de dados - dados cadastrais de revendedores de combustível (atividade 3)
 atividade desenvolvida a partir de uma base escolhida no portal de dados abertos, sendo eles dados cadastrais de revendedores varejistas de combustíveis, envolvendo a elaboração de cinco questões, os resultados foram apresentados e feitos por meio de gráficos para facilitar a visualização e interpretação das informações. 
 
 <img width="1289" height="443" alt="github print" src="https://github.com/user-attachments/assets/51c04650-7b3c-49d2-a1fc-46bc5e2f3456" />
 
-## Atividade Power bi - análise de dados da ANTT - CARGAS - EMPRESAS MULTIMODAIS 
+## Atividade Power bi - análise de dados da ANTT - CARGAS - EMPRESAS MULTIMODAIS (Atividade 4)
 atividade foi desenvolvida com os dados abertos da ANTT- cargas e empresas multimodais. A partir dos dados foram elaborados dashboards para visualizações e interpretação pertencentes aos dados, os resultados foram apresentados e feitos por meio de gráficos e mapas para facilitar a interpretação das informações.
 
 <img width="883" height="496" alt="informatica github" src="https://github.com/user-attachments/assets/2e23004a-5fd0-409e-8bcd-2da1ffcc8126" />
 
-## Atividade power bi - criação de dashboard 
+## Atividade power bi - criação de dashboard (Atividade 5)
 A atividade a seguir foi desenvolvida individualmente, mantendo os requisitos exigidos pelo professor(a) onde foi pesquisado uma base de dados publica (dados cadastrais de revendedores de combustível). E assim foram desenvolvidos dashboards para a análises e informações dos dados baixados.
 
 <img width="884" height="497" alt="image" src="https://github.com/user-attachments/assets/31a97ce7-c0eb-42f8-ac8e-92f4548c1cb0" />
 
-## Atividade: Incluindo Imagens URL no Power Bi 
+## Atividade: Incluindo Imagens URL no Power Bi (Atividade 6)
 Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
 
 <img width="870" height="488" alt="image" src="https://github.com/user-attachments/assets/757644cf-a355-4573-8311-ce841fb284ef" />
 
-## Análise de Regressão Linear - Vendas de Sorvete (KAGGLE) - Parte 1
+## Análise de Regressão Linear - Vendas de Sorvete (KAGGLE) (Atividade 7)
+
+ ## Parte 1 - Tratamento de Dados e Modelagem no Excel
  Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os dados foram descompactados e estruturados no Excel convertendo o arquivo CSV (usando o recurso de dividir Texto para Colunas com separação por vírgula). Em seguida, foi construído um gráfico de dispersão mapeando as variáveis nos eixos X e Y, finalizando com a aplicação de uma linha de tendência (regressão linear) para a análise visual inicial.
 
 <img width="716" height="370" alt="image" src="https://github.com/user-attachments/assets/a108ed70-da07-42be-ba62-8e04da70a668" />
 
-## Gráfico de regressão linear feito no google colab 
+## Parte 2 - Automação e Validação no Google Colab (Python)
+Para fins de comparação entre ferramentas, o mesmo experimento foi replicado via programação. Foi aberto um novo notebook no Google Colab e, com o auxílio de IA, foi estruturado um código que importou os mesmos dados do Kaggle. O dataset foi transformado via código, gerando a plotagem de um novo gráfico de regressão linear que incluiu a análise com a raiz quadrada, permitindo validar e comparar os resultados obtidos anteriormente no Excel.
+
+## Gráfico de regressão linear feito no (google colab) 
 <img width="747" height="364" alt="image" src="https://github.com/user-attachments/assets/94d6c901-ae07-45df-9f52-15d1cc093cb3" />
 
-## Espectativa de vida (power bi)
+## Dashboard de Expectativa de Vida e Regressão Linear (Atividade 8)
+
+## Parte 1: Dashboard de Expectativa de Vida (Power BI)
 Com base nos dados coletados do portal Our World in Data, foi elaborado um dashboard executivo contendo três visualizações interativas. O painel apresenta a evolução histórica da expectativa de vida global através de um gráfico de linha e compara o ranking dos países com as maiores e menores médias utilizando gráficos de barras, aplicando filtros de temporalidade para garantir a consistência estatística da análise
 <img width="841" height="623" alt="image" src="https://github.com/user-attachments/assets/dc9cf5d1-4892-4384-b1b4-4b896460392b" />
 
-## Regressao linear de horas de estudo 
+## Parte 2: Análise de Correlação - Horas de Estudo vs. Notas (Excel e Python)
 Extração de um dataset acadêmico do GitHub para testar a correlação entre o tempo de estudo e o desempenho. Foi construído um gráfico de dispersão com a aplicação de uma linha de tendência linear, comprovando visual e estatisticamente a hipótese de que mais horas de estudo estão associadas a notas maiores.
-<img width="1076" height="607" alt="image" src="https://github.com/user-attachments/assets/b0a9c889-1424-45a2-801e-5615a29a9899" />
+<img width="835" height="466" alt="image" src="https://github.com/user-attachments/assets/c4cba3e1-6935-4d93-bb2c-78eb24fb2e50" />
+
+
+Para validar o modelo criado no Excel, o processo estatístico foi replicado via código. A partir do mesmo link do GitHub, utilizou-se IA para gerar o script de plotagem. Após o refinamento manual do código para isolar apenas as variáveis necessárias (horas e notas), o script gerou o gráfico de regressão linear exibindo a equação e o coeficiente R, confirmando a exatidão dos resultados.
+
+<img width="855" height="636" alt="image" src="https://github.com/user-attachments/assets/d92a09fd-9f4a-4070-98d5-aea6e7fee0f1" />
