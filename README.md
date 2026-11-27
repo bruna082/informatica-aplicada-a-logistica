@@ -31,3 +31,13 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 
 <img width="716" height="370" alt="image" src="https://github.com/user-attachments/assets/a108ed70-da07-42be-ba62-8e04da70a668" />
 
+## Gráfico de regressão linear feito no google colab 
+<img width="747" height="364" alt="image" src="https://github.com/user-attachments/assets/94d6c901-ae07-45df-9f52-15d1cc093cb3" />
+
+## Espectativa de vida (power bi)
+Com base nos dados coletados do portal Our World in Data, foi elaborado um dashboard executivo contendo três visualizações interativas. O painel apresenta a evolução histórica da expectativa de vida global através de um gráfico de linha e compara o ranking dos países com as maiores e menores médias utilizando gráficos de barras, aplicando filtros de temporalidade para garantir a consistência estatística da análise
+<img width="841" height="623" alt="image" src="https://github.com/user-attachments/assets/dc9cf5d1-4892-4384-b1b4-4b896460392b" />
+
+## Regressao linear de horas de estudo 
+Extração de um dataset acadêmico do GitHub para testar a correlação entre o tempo de estudo e o desempenho. Foi construído um gráfico de dispersão com a aplicação de uma linha de tendência linear, comprovando visual e estatisticamente a hipótese de que mais horas de estudo estão associadas a notas maiores.
+<img width="1076" height="607" alt="image" src="https://github.com/user-attachments/assets/b0a9c889-1424-45a2-801e-5615a29a9899" />
